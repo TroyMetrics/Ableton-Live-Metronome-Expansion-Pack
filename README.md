@@ -1,4 +1,4 @@
-<h1 align="center">🎹 Ableton Live Metronome Expansion Pack🎵</h1>
+<h1 align="center">🎹 Ableton Live Metronome Expansion Pack 🎵</h1>
 Includes 85 high-quality metronome sounds that expand Ableton Live’s drop-down list, featuring everything from classic and studio clicks to iconic DAW and hardware metronomes (FL Studio, Pro Tools, Cubase, MPC, and more), all sampled at the highest quality.
 
 ---
@@ -18,7 +18,7 @@ Includes 85 high-quality metronome sounds that expand Ableton Live’s drop-down
 
 # Installation
 
-Optional: Follow this [Video](https://youtu.be/JeTm7GRaG04?si=yNAQV6L2B6bzEx0N&t=65) or,
+Follow this [Video](https://youtu.be/JeTm7GRaG04?si=yNAQV6L2B6bzEx0N&t=65) or,
 
 1. Download and Extract "Professional Metronomes for Ableton Live.zip" file to your computer.
 
@@ -26,9 +26,9 @@ Optional: Follow this [Video](https://youtu.be/JeTm7GRaG04?si=yNAQV6L2B6bzEx0N&t
 
 3. Copy and Paste the contents of the "Ableton Live Metronomes" folder into Ableton Live's "Metronome" folder located at:
 
-%PROGRAMDATA%\Ableton\Live 11 Suite\Resources\Misc\Metronome
+%PROGRAMDATA%\Ableton\Live 12 Suite\Resources\Misc\Metronome
 
-You can copy/paste this file location into the Windows File Explorer address bar if necessary. Note that \Live 11 Suite may vary dependent on which version you have.
+You can copy/paste this file location into the Windows File Explorer address bar if necessary. Note that \Live 12 Suite may vary dependent on which version you have.
 
 4. Restart Ableton Live for changes to take effect.
 
