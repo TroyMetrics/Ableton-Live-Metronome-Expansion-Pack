@@ -38,7 +38,7 @@ You can copy/paste this file location into the Windows File Explorer address bar
 
 Note - There's no requirement to overwrite Ableton's default metronome sound files, as suggested in numerous tutorials. Instead, metronomes are simply added to the drop down list within Ableton, and Ableton's original metronomes remain functional.
 
-🛠️ I plan to release full Mac support in a future update. In the meantime, I’ve included the project file so Mac users can save the .adg files themselves. If you’re a Mac user and would like to help improve Mac compatibility, please get in touch!
+📝 I plan to release full Mac support in a future update. In the meantime, I’ve included the project file so Mac users can save the .adg files themselves. If you’re a Mac user and would like to help improve Mac compatibility, please get in touch!
 
 ---
 ### 🎉 You're All Set!
